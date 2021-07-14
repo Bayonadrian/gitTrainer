@@ -15,4 +15,4 @@ Donde se emplea el codigo de "git log" en el lugar de <code>, siendo asi este co
 
 De este modo puedes "volver al presente".
 
--> Continua en /stepFive(status, add, commit)
+-> Continua en /stepFive(branch, checkout, merge)

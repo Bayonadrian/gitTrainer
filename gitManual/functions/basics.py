@@ -24,3 +24,7 @@ def tree(update, context):
 def four(update, context):
 
     update.message.reply_text(basics.FOUR.value)
+
+def five(update, context):
+
+    update.message.reply_text(basics.FIVE.value)

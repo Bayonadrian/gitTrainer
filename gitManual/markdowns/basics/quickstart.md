@@ -3,3 +3,4 @@ Bienvenido al inicio rapido, te recomiendo empezar con este video: https://youtu
 - /stepTwo -> Segundo paso(status, add, commit)
 - /stepTree -> Tercer paso(show, log, diff)
 - /stepFour -> Cuarto paso(reset, checkout)
+- /stepFive -> Quinto paso(branch, checkout, merge)
