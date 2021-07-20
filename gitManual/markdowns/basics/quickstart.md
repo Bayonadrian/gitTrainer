@@ -4,3 +4,4 @@ Bienvenido al inicio rapido, te recomiendo empezar con este video: https://youtu
 - /stepTree -> Tercer paso(show, log, diff)
 - /stepFour -> Cuarto paso(reset, checkout)
 - /stepFive -> Quinto paso(branch, checkout, merge)
+- /stepSix -> Sexto paso(remote, push, pull)

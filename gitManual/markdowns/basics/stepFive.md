@@ -23,3 +23,5 @@ Entonces dentro de la rama "master" hacer lo siguiente:
 - git merge <branch>
 
 Si el procedimiento fuese al reves, dentro de la rama <branch>, jalando informacion de la rama "master", entonces se dejaria del lado la rama "master".
+
+-> Continua en /stepSix(remote, push, pull)
