@@ -28,3 +28,7 @@ def four(update, context):
 def five(update, context):
 
     update.message.reply_text(basics.FIVE.value)
+
+def six(update, context):
+
+    update.message.reply_text(basics.SIX.value)

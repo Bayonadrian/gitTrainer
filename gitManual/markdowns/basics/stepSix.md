@@ -31,4 +31,6 @@ Nota: Tanto en push como pull se coloco master por que se trabaja en estos casos
 
 - git push origin beta
 
+Asi con esto ya puedes emplear github de forma basica, para tus proyectos personales.
+
 Nota: En este inicio rapido no te mostrare como generar llaves SSH pero te recomiendo ver ese tema para mejorar la seguridad de tu proyecto.

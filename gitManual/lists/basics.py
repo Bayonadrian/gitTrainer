@@ -8,6 +8,7 @@ stepTwo = path.realpath('gitManual/markdowns/basics/stepTwo.md')
 stepTree = path.realpath('gitManual/markdowns/basics/stepTree.md')
 stepFour = path.realpath('gitManual/markdowns/basics/stepFour.md')
 stepFive = path.realpath('gitManual/markdowns/basics/stepFive.md')
+stepSix = path.realpath('gitManual/markdowns/basics/stepSix.md')
 
 class basics(Enum):
 
@@ -39,3 +40,7 @@ class basics(Enum):
     with open(stepFive, 'r') as stepFive:
 
         FIVE = stepFive.read()
+
+    with open(stepSix, 'r') as stepSix:
+
+        SIX = stepSix.read()

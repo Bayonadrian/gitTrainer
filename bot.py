@@ -1,6 +1,6 @@
 from telegram.ext import Updater, CommandHandler
 from credentials import credential
-from gitManual.functions.basics import start, quiskstart, one, two, tree, four, five
+from gitManual.functions.basics import start, quiskstart, one, two, tree, four, five, six
 
 if __name__ == '__main__':
 
@@ -17,6 +17,7 @@ if __name__ == '__main__':
     dp.add_handler(CommandHandler('stepTree', tree))
     dp.add_handler(CommandHandler('stepFour', four))
     dp.add_handler(CommandHandler('stepFive', five))
+    dp.add_error_handler(CommandHandler('stepSix', six))
 
 #Start
 
