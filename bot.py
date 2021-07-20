@@ -17,7 +17,7 @@ if __name__ == '__main__':
     dp.add_handler(CommandHandler('stepTree', tree))
     dp.add_handler(CommandHandler('stepFour', four))
     dp.add_handler(CommandHandler('stepFive', five))
-    dp.add_error_handler(CommandHandler('stepSix', six))
+    dp.add_handler(CommandHandler('stepSix', six))
 
 #Start
 
