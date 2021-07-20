@@ -27,5 +27,8 @@ Para llevar informacion al repositorio de github te recomiendo emplear el comand
 
 - git push origin master
 
-Nota: En este inicio rapido no te mostrare como generar llaves SSH pero te recomiendo ver ese tema para mejorar la seguridad de tu proyecto.
+Nota: Tanto en push como pull se coloco master por que se trabaja en estos casos con la rama master, pero en caso de emplear otras ramas es posible ponerlas ahi en lugar de master, como por ejemplo de tener una rama llamada beta, esta se puede subir, empleando el comando:
 
+- git push origin beta
+
+Nota: En este inicio rapido no te mostrare como generar llaves SSH pero te recomiendo ver ese tema para mejorar la seguridad de tu proyecto.
